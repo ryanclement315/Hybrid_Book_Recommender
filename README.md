@@ -1,6 +1,6 @@
 # DSC 202 Final Project
 
-Group Members: Sarah Borsotto, Ryan Clement, Felipe Lorenzi
+Group Members: Sarah Borsotto, Ryan Clement, Felipe Lorenzi 
 
 **Link to presentation video:** [https://www.youtube.com/watch?v=pKXsPabvcv0](https://www.youtube.com/watch?v=pKXsPabvcv0)
 
